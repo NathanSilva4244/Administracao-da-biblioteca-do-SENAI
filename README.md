@@ -5,46 +5,46 @@ Este repositório contém um banco de dados desenvolvido para gerenciar o contro
 
 
 ### Tabelas Implementadas
-#### armario
+#### 1- armario
 Armazenamento de informações sobre os armários da biblioteca.
 
-#### divisao
+#### 2- divisao
 Detalhes sobre as divisões dos armários.
 
-#### estoque
+#### 3- estoque
 Registro do estoque de materiais na biblioteca.
 
-#### material didatico
+#### 4- material didatico
 Informações sobre os materiais didáticos disponíveis.
 
-#### material didatico repografia
+#### 5- material didatico repografia
 Dados específicos sobre materiais didáticos relacionados à reprografia.
 
-#### material didatico turma
+#### 6- material didatico turma
 Relação entre o material didático e as turmas.
 
-#### movimentacao
+#### 7- movimentacao
 Registro das movimentações de materiais na biblioteca.
 
-#### observacao 
+#### 8- observacao 
 Observações gerais relacionadas ao banco de dados.
 
-#### observacao material 
+#### 9- observacao material 
 Observações específicas sobre os materiais.
 
-#### observacao repografia 
+#### 10- observacao repografia 
 Observações relacionadas à reprografia.
 
-#### professor 
+#### 11- professor 
 Cadastro de informações sobre os professores.
 
-#### remessa conserto 
+#### 12- remessa conserto 
 Detalhes das remessas de materiais para conserto.
 
-#### repografia
+#### 13- repografia
 Informações sobre os serviços de reprografia disponíveis.
 
-#### solicitacao
+#### 14- solicitacao
 Registro das solicitações realizadas na biblioteca.
 
 
